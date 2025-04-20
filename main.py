@@ -60,7 +60,7 @@ async def is_admins(chat_id: int):
 MAIN = [
     [
         InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Mr_harsh_zs2"),
-        InlineKeyboardButton(text=" ꜱᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/Sigma_byz"),
+        InlineKeyboardButton(text=" ꜱᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/The_Limited_World"),
     ],
     [
         InlineKeyboardButton(
@@ -85,7 +85,7 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", 
-                              url=f"https://t.me/sigma_byz",
+                              url=f"https://t.me/The_Limited_World",
          ),
      ],
 ]
